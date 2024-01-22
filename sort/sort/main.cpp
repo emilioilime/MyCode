@@ -63,6 +63,6 @@ int main(int argc, const char * argv[]) {
     int a[6]={0,7,2,9,4,5};
     output_array(a,6);
     sortfrontback(a,6);
-    
+    //just a little bit test
     return 0;
 }
